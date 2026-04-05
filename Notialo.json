@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "Notialo", // Tu usuario GitHub
+    "email": "notialoproyecto@gmail.com" // Tu email
+  },
+  "record": {
+    "CNAME": "notialo.is-a.dev" // La URL donde apunta tu web
+  }
+}
